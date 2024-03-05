@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'museoR';
+    src: url(../font/MuseoRegular.ttf);
+  }
+  ::-webkit-scrollbar{
+    display: none;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'museoR';
+}
+  body{
+    background: #000;
+    filter: contrast(110%) brightness(120%);
+  }
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2.5rem;
+    width: 100%;
+    position: absolute;
+    color: #fff;
+}
+nav .navContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.5em;
+}
+.navTitle{
+    display: flex;
+    align-items: baseline;
+}
+.navTitle .doted{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ff0070;
+}
+a{
+  text-decoration: none;
+}
+.navButton{
+    display: flex;
+    align-items: center;
+
+    button{
+        padding: .5rem 1rem;
+        background: linear-gradient(to bottom right, #ff0070, 35%, #333399);
+        border: 1px solid #fff;
+        border-radius: 25px;
+        color: #fff;
+        cursor: pointer;
+        z-index: 1;
+    }
+}

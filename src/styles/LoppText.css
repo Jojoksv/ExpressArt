@@ -1,0 +1,70 @@
+.LoppText {
+    height: 140vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.doted {
+    width: 1365px;
+    height: 1365px;
+    border-radius: 50%;
+    background-color: #ffffff11;
+    border: 1px solid #ffffff2c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(31.5%);
+    position: relative;
+}
+
+.doted .doted1, .doted .doted2, .doted .doted3, .doted .doted4, .doted .doted5, .doted .doted6 {
+    border-radius: 50%;
+    position: absolute;
+    background-color: #ffffff11;
+    border: 1px solid #ffffff2c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.doted .doted1 {
+    width: 1165px;
+    height: 1165px;
+}
+
+.doted .doted2 {
+    width: 965px;
+    height: 965px;
+}
+
+.doted .doted3 {
+    width: 765px;
+    height: 765px;
+}
+
+.doted .doted4 {
+    width: 565px;
+    height: 565px;
+}
+
+.doted .doted5 {
+    width: 365px;
+    height: 365px;
+}
+
+.doted .doted6 {
+    width: 65px;
+    height: 65px;
+}
+
+.OnLoop{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background: #00000088; */
+}

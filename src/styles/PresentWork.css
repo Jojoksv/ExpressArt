@@ -1,0 +1,44 @@
+
+
+.sectionWorksShow{
+    height: 120vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 9rem;
+    font-weight: bold;
+    line-height: 1;
+    gap: 20px;
+}
+.sectionWorksShow div{
+    width: 95%;
+    height: 25%;
+
+    span{
+        text-wrap: nowrap;
+        background: linear-gradient(to bottom right, #ff0070, 45%, #333399);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            
+    }
+
+    img{
+        width: 50%;
+        height: 100%;
+        border-radius: 100px;
+        border: 2px solid #ff0070;
+    }
+}
+.inspire{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.firstDevWorks, .SecondDevWorks{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+

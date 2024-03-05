@@ -1,0 +1,6 @@
+.footer {
+    position: fixed;
+    height: 100vh;
+    color: #fff;
+    z-index: -1;
+}
