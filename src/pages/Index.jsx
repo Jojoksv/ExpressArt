@@ -4,6 +4,7 @@ import Participateur from '../components/IndexComponents/Participateur.jsx'
 import AdminPresent from '../components/IndexComponents/AdminPresent.jsx'
 import LoppText from '../components/IndexComponents/LoppText.jsx'
 import LetsConnect from '../components/IndexComponents/LetsConnect.jsx'
+import PresentTalents from '../components/IndexComponents/PresentTalents.jsx'
 
 
 function Index() {
@@ -12,6 +13,7 @@ function Index() {
       <LandingHeadPage />
       <Participateur />
       <PresentWork />
+      <PresentTalents />
       <AdminPresent />
       <LoppText />
       <LetsConnect />

@@ -4,48 +4,10 @@
     color: #fff;
     /* z-index: -1; */
 }
-body, html {
+/* body, html {
     margin: 0;
     padding: 0;
     height: 100%;
-  }
+  } */
   
-  .container {
-    position: relative;
-    height: 100vh;
-    overflow-y: auto; /* Ajoutez ceci pour permettre le défilement vertical */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    perspective: 1000px;
-    overflow: hidden;
-  }
-  
-  .item {
-    position: absolute;
-    width: 90%;
-    height: 90%;
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 2px solid white;
-    transform-style: preserve-3d;
-    transition: transform 0.5s;
-  }
-  
-  .item img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .item:nth-child(1) {
-    transform: translateZ(-50px) translateY(-5%);
-  }
-  
-  .item:nth-child(2) {
-    transform: translateY(0);
-  }
-  
-  .item:nth-child(3) {
-    transform: translateZ(50px) translateY(5%);
-  }
   

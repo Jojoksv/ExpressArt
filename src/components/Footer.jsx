@@ -29,11 +29,7 @@ const Footer = () => {
   }, []);
 
   return (
-    <div className="container" id="container">
-      <div className="item"><img src={img} alt="Image 1" /></div>
-      <div className="item"><img src={img} alt="Image 2" /></div>
-      <div className="item"><img src={img} alt="Image 3" /></div>
-    </div>
+    <div></div>
   );
 };
 
