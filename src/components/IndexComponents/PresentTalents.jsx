@@ -9,17 +9,17 @@ function PresentTalents(){
 
     useEffect(() => {
         const handleScroll = () => {
-          const container = document.getElementById('container');
+          const container = document.getElementById('Talentscontainer');
           const scrollTop = window.scrollY;
           const containerTop = container.getBoundingClientRect().top;
           const containerHeight = container.offsetHeight;
     
           const scrollPercentage = (scrollTop - containerTop) / containerHeight;
     
-          const items = document.querySelectorAll('.item');
+          const items = document.querySelectorAll('.Talentsitem');
           items.forEach((item, index) => {
-            const translateZ = (index - 1) * 50 * scrollPercentage;
-            const translateY = (index - 1) * 20 * scrollPercentage; // Ajustez cette valeur pour un défilement plus fluide
+            const translateZ = (index - 1) * 70 * scrollPercentage;
+            const translateY = (index - 1) * 80 * scrollPercentage;
             item.style.transform = `translateZ(${translateZ}px) translateY(${translateY}px)`;
           });
         };
@@ -33,10 +33,10 @@ function PresentTalents(){
 
       
     return(
-        <div className="container" id="container">
-            <div className="item"><img src={img} alt="Image 1" /></div>
-            <div className="item"><img src={img} alt="Image 2" /></div>
-            <div className="item"><img src={img} alt="Image 3" /></div>
+        <div className="Talentscontainer" id="Talentscontainer">
+            <div className="Talentsitem"><img src={img} alt="Image 1" /></div>
+            <div className="Talentsitem"><img src={img} alt="Image 2" /></div>
+            <div className="Talentsitem"><img src={img} alt="Image 3" /></div>
         </div>
     )
 }

@@ -1,8 +1,8 @@
 
-.container {
+.Talentscontainer {
     position: relative;
-    height: 100vh;
-    overflow-y: auto; /* Ajoutez ceci pour permettre le défilement vertical */
+    height: 140vh;
+    overflow-y: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@
     overflow: hidden;
   }
   
-  .item {
+  .Talentsitem {
     position: absolute;
     width: 90%;
     height: 90%;
@@ -20,21 +20,21 @@
     transition: transform 0.5s;
   }
   
-  .item img {
+  .Talentsitem img {
     width: 100%;
     height: 100%;
     object-fit: cover;
   }
   
-  .item:nth-child(1) {
-    transform: translateZ(-50px) translateY(-5%);
+  .Talentsitem:nth-child(1) {
+    /* transform: translateZ(-500px) translateY(-50%); */
   }
   
-  .item:nth-child(2) {
-    transform: translateY(0);
+  .Talentsitem:nth-child(2) {
+    /* transform: translateY(0); */
   }
   
-  .item:nth-child(3) { 
-    transform: translateZ(50px) translateY(5%);
+  .Talentsitem:nth-child(3) { 
+    /* transform: translateZ(50px) translateY(5%); */
   }
   
