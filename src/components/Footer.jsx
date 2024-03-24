@@ -1,35 +1,12 @@
 
 import '../styles/Footer.css'
-import img from '../assets/admin.jpg'
-import React, { useEffect } from 'react';
+// import img from '../assets/admin.jpg'
 
 const Footer = () => {
-  useEffect(() => {
-    const handleScroll = () => {
-      const container = document.getElementById('container');
-      const scrollTop = window.scrollY;
-      const containerTop = container.getBoundingClientRect().top;
-      const containerHeight = container.offsetHeight;
-
-      const scrollPercentage = (scrollTop - containerTop) / containerHeight;
-
-      const items = document.querySelectorAll('.item');
-      items.forEach((item, index) => {
-        const translateZ = (index - 1) * 50 * scrollPercentage;
-        const translateY = (index - 1) * 20 * scrollPercentage; // Ajustez cette valeur pour un défilement plus fluide
-        item.style.transform = `translateZ(${translateZ}px) translateY(${translateY}px)`;
-      });
-    };
-
-    window.addEventListener('scroll', handleScroll);
-
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, []);
-
   return (
-    <div></div>
+    <div className='footerContainer'>
+      idnsikcniwdsk
+    </div>
   );
 };
 
