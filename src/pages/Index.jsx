@@ -1,5 +1,5 @@
 import LandingHeadPage from '../components/IndexComponents/LandingHeadPage.jsx'
-// import PresentWork from '../components/IndexComponents/PresentWork.jsx'
+import PresentWork from '../components/IndexComponents/PresentWork.jsx'
 import Participateur from '../components/IndexComponents/Participateur.jsx'
 import AdminPresent from '../components/IndexComponents/AdminPresent.jsx'
 // import LoppText from '../components/IndexComponents/LoppText.jsx'
@@ -14,7 +14,7 @@ function Index() {
       <LandingHeadPage />
       <Participateur />
       <StikySections />
-      {/* <PresentWork /> */}
+      <PresentWork />
       {/* <PresentTalents /> */}
       <AdminPresent />
       {/* <LoppText /> */}

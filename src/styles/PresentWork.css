@@ -1,4 +1,4 @@
-
+/* 
 
 .sectionWorksShow{
     height: 120vh;
@@ -41,4 +41,8 @@
     align-items: center;
     justify-content: space-between;
 }
+ */
 
+ .img1{
+    background-image: url('../assets/admin3.jpg');
+ }
