@@ -1,13 +1,4 @@
 import '../../styles/PresentWork.css'
-// import brand2 from '../../assets/Brand2.webp'
-import '../../styles/base.css'
-import '../../js/index'
-import '../../js/utils'
-import '../../js/gsap.min'
-import '../../js/lenis.min'
-import '../../js/ScrollTrigger.min'
-import '../../js/imagesloaded.pkgd.min'
-
 
 
 

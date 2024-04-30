@@ -15,12 +15,12 @@ function AdminPresent() {
                         <div className='inner'>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -29,12 +29,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -43,12 +43,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -57,12 +57,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -71,12 +71,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -85,12 +85,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -99,12 +99,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -113,12 +113,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -127,12 +127,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -145,12 +145,12 @@ function AdminPresent() {
                         <div className='inner'>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -159,12 +159,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -173,12 +173,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -187,12 +187,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -201,12 +201,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -215,12 +215,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -229,12 +229,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -243,12 +243,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -257,12 +257,12 @@ function AdminPresent() {
                             </div>
                             <div className='tag'>
                                 <p>
-                                    "I can't thank Marc enough for the 
+                                    I can&apos;t thank Marc enough for the 
                                     incredible work he did on our 
                                     website. His attention to detail 
                                     is impeccable, and he has a rare 
                                     ability to understand the unique 
-                                    needs of his clients."
+                                    needs of his clients.
                                 </p>
                                 <div>
                                     <img src={admin} alt="" />
@@ -275,7 +275,7 @@ function AdminPresent() {
                 </div>
             </div>
         </div>
-    );
+    )
 }
 
 export default AdminPresent;
